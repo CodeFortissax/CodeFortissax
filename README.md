@@ -5,7 +5,7 @@ I build data-driven solutions that bridge the gap between complex analytics and 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Data Scientist and an Machine Learning Engineer.
+- 🔭 I’m currently working as a Data Scientist and Machine Learning Engineer.
 - 🌱 Currently Learning
   
       >>Deep Learning

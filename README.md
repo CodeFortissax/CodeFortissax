@@ -3,7 +3,6 @@
 
 I build data-driven solutions that bridge the gap between complex analytics and real-world impact. My work spans machine learning, data science, data engineering, scientific computing and financial analysis, with a focus on turning messy datasets into clear insights and reliable systems.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Data Scientist and Machine Learning Engineer.
 - 🌱 Currently Learning
